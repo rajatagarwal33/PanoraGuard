@@ -35,7 +35,6 @@ The project was carried out by **Company 3** in collaboration with **Axis Commun
 </div>
 
 - **Final Product Demo Pitch**: https://www.youtube.com/watch?v=JkDI--DhFnU  
-- **Live Deployment (Academic)**: https://panoraguard.se/
 
 ---
 
