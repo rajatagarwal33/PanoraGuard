@@ -7,9 +7,18 @@
 ## PanoraGuard — Security Surveillance System
 
 **PanoraGuard** is a full-stack security surveillance system developed as part of the course  
-**TDDC88 – Software Engineering** at **:contentReference[oaicite:0]{index=0}** (Fall 2024).
+**TDDC88 – Software Engineering** at **Linkoping University** (Fall 2024).
 
-The project was carried out by **Company 3** in collaboration with **:contentReference[oaicite:1]{index=1}**, who acted as a real-world client by providing requirements, feedback, and domain constraints.
+The project was carried out by **Company 3** in collaboration with **Axis Communications**, who acted as a real-world client by providing requirements, feedback, and domain constraints.
+
+---
+
+<div style="text-align: center;">
+  <img src="Client/Frontend/src/assets/C3WBG.png" alt="Company 3 Logo" width="200" style="display: inline-block; margin-right: 10px;"/>
+  <img src="Client/Frontend/src/assets/AxisLogo.png" alt="AXIS Communications Logo" width="200" style="display: inline-block;"/>
+</div>
+
+---
 
 > ⚠️ **Important Note**  
 > This repository is a **personal portfolio version** of a team project.  
@@ -27,6 +36,21 @@ The project was carried out by **Company 3** in collaboration with **:contentRef
 
 - **Final Product Demo Pitch**: https://www.youtube.com/watch?v=JkDI--DhFnU  
 - **Live Deployment (Academic)**: https://panoraguard.se/
+
+---
+
+## Follow the Journey
+
+- [**Demo iteration 2**](https://drive.google.com/file/d/1ICRIwVadDdsYsEZzZyCarr14lxmGuBHL/view?usp=drive_link)
+- [**Demo iteration 3**](https://drive.google.com/file/d/1vbIL0ewWdcuGKRSdi8LCC5NupxmdV6Gc/view?usp=drive_link)
+- [**Final Product Demo Pitch**](https://www.youtube.com/watch?v=JkDI--DhFnU&t=1s)
+
+---
+
+## Who are we?
+
+Learn more about us on our company website:  
+[**Company Website**](https://company-members-rajag969-b760ce3a61d886c9508e8e542a6936a0f6ede1.gitlab-pages.liu.se/)
 
 ---
 
