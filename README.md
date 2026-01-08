@@ -119,3 +119,128 @@ This seamless flow ensures efficient alarm management and real-time decision-mak
 - For local database management and environment setup, refer to `/Server` README files.
 
 Let’s secure your space with **PanoraGuard**!
+
+
+
+
+# PanoraGuard — Lead Developer & UX Lead Case Study
+
+## Overview
+
+**PanoraGuard** is a full-stack security surveillance system developed as part of a master’s-level course in **Software Engineering** at **:contentReference[oaicite:0]{index=0}** (Fall 2024).
+
+The project was conducted in collaboration with **:contentReference[oaicite:1]{index=1}**, who acted as a real-world client by providing requirements, feedback, and domain constraints related to camera-based surveillance systems.
+
+> ⚠️ **Important Note**  
+> This repository is a **personal portfolio version** of a team project originally developed by a group (“Company 3”).  
+> It is intended to showcase **my individual contributions, leadership responsibilities, and technical work**.
+
+---
+
+## My Role
+
+**Lead Developer & UX Lead**
+
+I held a dual leadership role, responsible for both **technical direction** and **user experience design**, ensuring that the system was scalable, usable, and aligned with client requirements.
+
+### Responsibilities
+
+- Led system-level **architecture and technical decision-making**
+- Designed and owned the **frontend UX** for operators, admins, and managers
+- Coordinated development work across team members
+- Acted as the main technical representative during client demos and reviews
+- Ensured alignment between **business requirements**, **engineering constraints**, and **user needs**
+
+---
+
+## My Contributions
+
+### Frontend & UX
+
+- Designed user flows for:
+  - Alarm handling and validation
+  - Operator decision-making under time pressure
+  - Admin configuration and monitoring
+- Implemented real-time UI updates using WebSockets
+- Built alarm lifecycle workflows (trigger → review → dismiss / escalate)
+- Focused on usability, clarity, and fast response times for security operators
+
+### Backend & System Integration
+
+- Contributed to alarm creation logic and system communication design
+- Integrated frontend with cloud backend and LAN server
+- Worked with real camera data (object type, confidence scores, snapshots, live feeds)
+- Helped define API contracts between system components
+
+### Engineering Practices
+
+- Worked in an **agile, iteration-based process**
+- Participated in requirement refinement directly with the client
+- Helped define acceptance criteria and demo goals
+- Performed code reviews to maintain architectural consistency
+
+---
+
+## The Product
+
+PanoraGuard combines **camera-based object detection**, **automated alarms**, and **real-time operator support**.
+
+### Key Features
+
+- Automated alarms based on object detection confidence thresholds
+- Real-time operator notifications with snapshots and live camera feeds
+- Alarm escalation and dismissal workflows
+- Speaker-based deterrence via connected hardware
+- Admin tools for configuration, scheduling, and historical analysis
+
+🎥 **Final Product Demo Pitch**  
+https://www.youtube.com/watch?v=JkDI--DhFnU
+
+🌐 **Live Deployment (Academic)**  
+https://panoraguard.se/
+
+---
+
+## System Overview
+
+PanoraGuard is a distributed system consisting of:
+
+- **AXIS Cameras** running custom ACAPs for object detection
+- **LAN Server** for local camera and speaker control
+- **Cloud Backend** for business logic, alarms, and persistence
+- **Web Client** for operators, admins, and managers
+
+The system uses REST APIs and WebSockets to enable real-time communication and updates.
+
+---
+
+## Tech Stack (High-Level)
+
+- **Frontend:** Web-based GUI with real-time updates
+- **Backend:** Cloud-hosted server with business logic and database
+- **Networking:** LAN server bridging cameras and cloud services
+- **Hardware:** AXIS cameras and speaker systems
+- **Communication:** REST APIs, WebSockets
+
+(See subdirectory READMEs for detailed setup and implementation.)
+
+---
+
+## Why This Project Is Relevant
+
+This project closely mirrors professional industry work and demonstrates my ability to:
+
+- Work with **real industrial clients**
+- Lead development in a **multi-component distributed system**
+- Design **user-centered UX** for complex, high-stakes workflows
+- Balance technical depth with product and usability concerns
+- Deliver under deadlines with real demos and stakeholder feedback
+
+---
+
+## Disclaimer
+
+This repository is intended **for portfolio and job application purposes only**.
+
+All branding, requirements, and system context originate from an academic collaboration with AXIS Communications as part of coursework at Linköping University.
+
